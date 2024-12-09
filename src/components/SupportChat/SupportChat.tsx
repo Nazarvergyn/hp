@@ -14,13 +14,13 @@ const SupportChat = () => {
           </div>
         </div>
 
-        <div data-aos="fade-up" data-aos-delay={400} className="flex items-center gap-2 sm:gap-4">
+        {/* <div data-aos="fade-up" data-aos-delay={400} className="flex items-center gap-2 sm:gap-4">
           <a href="" className="text-basePrimary text-base sm:text-lg font-medium leading-[130%] underline">WhatsApp</a>
           <span className="text-basePrimary text-base sm:text-lg font-medium leading-[130%]">&#8226;</span>
           <a href="" className="text-basePrimary text-lg font-medium leading-[130%] underline">Viber</a>
           <span className="text-basePrimary text-base sm:text-lg font-medium leading-[130%]">&#8226;</span>
           <a href="" className="text-basePrimary text-base sm:text-lg font-medium leading-[130%] underline">Messenger</a>
-        </div>
+        </div> */}
       </div>
     </BlockWrapper>
   );

@@ -14,7 +14,7 @@ const ContactDetails = () => {
           </div>
         </div>
 
-        <a data-aos="fade-up" data-aos-delay={400} href="tel:+12344567789" className="text-basePrimary text-base sm:text-lg font-medium leading-[130%] underline">(+1)234-4567-789</a>
+        {/* <a data-aos="fade-up" data-aos-delay={400} href="tel:+12344567789" className="text-basePrimary text-base sm:text-lg font-medium leading-[130%] underline">(+1)234-4567-789</a> */}
       </div>
     </BlockWrapper>
   );
