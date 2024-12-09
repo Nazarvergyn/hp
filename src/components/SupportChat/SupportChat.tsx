@@ -20,7 +20,7 @@ const SupportChat = () => {
           <a href="" className="text-basePrimary text-lg font-medium leading-[130%] underline">Viber</a>
           <span className="text-basePrimary text-base sm:text-lg font-medium leading-[130%]">&#8226;</span>
           <a href="" className="text-basePrimary text-base sm:text-lg font-medium leading-[130%] underline">Messenger</a>
-        </div> */}
+        </div>    */}
       </div>
     </BlockWrapper>
   );
